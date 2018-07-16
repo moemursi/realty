@@ -1,0 +1,32 @@
+/* Comment */
+
+@import url('https://fonts.googleapis.com/css?family=Markazi+Text');
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
+#logo{
+  background-color: lightblue;
+}
+#logo h1{
+  background-color: lightgreen;
+  font-family: 'Clicker Script',cursive;
+}
+#logo h2{
+  font-family: cursive;      
+}
+p{
+  font-size: 1em;
+  line-height: 1.5em;
+}
+figcaption{
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  font-family: 'Clicker Script', cursive;
+  color:green;
+
+}
+.milk-text{
+  font: bold 2.6em 'Clicker Script', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+
+}
